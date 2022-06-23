@@ -1,2 +1,1 @@
-<p>Flamengo e corinthians os melhores</p>
-<b>Futebol</b>
+<b>Flamengo e corinthians os melhores</b>
